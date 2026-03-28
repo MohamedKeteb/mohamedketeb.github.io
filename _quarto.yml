@@ -7,7 +7,7 @@ website:
   description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/my_image.jpg
   
-  favicon: img/favicon.png
+  # favicon: img/favicon.png (removed)
   
   # start of the navigation bar at the top of the website
   navbar:
