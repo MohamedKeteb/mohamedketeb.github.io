@@ -6,10 +6,10 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
+      href: https://github.com/MohamedKeteb
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/  
+      href: https://www.linkedin.com/in/mohamed-mehdi-keteb-782258229  
 ---
 
 ::: {#about-block}
