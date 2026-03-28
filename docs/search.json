@@ -2,9 +2,16 @@
   {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
-    "title": "Curriculum vitae",
+    "title": "My Cv",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mohamed M. Keteb",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n\n\n\n\n\n\n  \n\nPhD candidate with Pierre E. Jacob @ Department of Information Systems, Data Analytics and Operations – ESSEC Business School.\nEducation: I graduated from ENSAE Paris - Polytechnic Institute of Paris and completed a master’s degree in probability and statistics at the Institut des Mathématiques d’Orsay, Université Paris-Saclay. During my master’s thesis, I worked with Pierre E. Jacob on unbiased Markov Chain Monte Carlo methods with couplings, and previously I was an intern with Francesca Romana Crucinio on particle swarm optimization.\nResearch interests: I work at the intersection of probability and statistics, with a main focus on methodological and theoretical aspects of Monte Carlo methods. Currently, I focus on unbiased estimation of log marginal likelihood (log evidence) via path sampling and Markov chain coupling.\ncontact me at mohamed [dot] keteb [at] essec.edu"
   },
   {
     "objectID": "photography/index.html",
@@ -14,31 +21,31 @@
     "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "objectID": "publications/index.html#the-languages-of-middle-earth",
+    "href": "publications/index.html#the-languages-of-middle-earth",
+    "title": "Publications",
+    "section": "The Languages of Middle-earth",
+    "text": "The Languages of Middle-earth\n\narXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
+    "objectID": "publications/index.html#the-history-of-the-war-of-the-ring",
+    "href": "publications/index.html#the-history-of-the-war-of-the-ring",
+    "title": "TBA",
     "section": "The History of the War of the Ring",
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Tutorials",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Me\nAdd your personal introduction here. Tell visitors about yourself, your background, interests, and what you do. This is your opportunity to make a great first impression!\nFeel free to customize this section with: - Your professional background - Your interests and passions - Your current projects or work - Any other information you’d like to share\nFor more information about my work and projects, explore the Projects and Photography sections. You can also check out my CV for more details.\nFeel free to contact me if you have any questions or would like to collaborate!"
+    "text": "Tutorials\n\nFall 2025\n\nStochastic Processes (Prof. N. Chopin) — graduate course, 30 students @ ENSAE Paris"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "TBA",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
   }
 ]

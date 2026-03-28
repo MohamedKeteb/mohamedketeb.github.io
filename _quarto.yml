@@ -19,7 +19,7 @@ website:
       - text: "Teaching"
         href: teaching/index.qmd
       - text: "Publications"
-        href: projects/index.qmd
+        href: publications/index.qmd
       - text: "Talks"
         href: talks/index.qmd
       - text: "CV"

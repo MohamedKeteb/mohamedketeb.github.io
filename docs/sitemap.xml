@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mohamedketeb.github.io/cv/index.html</loc>
-    <lastmod>2023-10-12T11:27:19.000Z</lastmod>
+    <lastmod>2026-03-28T17:59:39.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mohamedketeb.github.io/index.html</loc>
+    <lastmod>2026-03-28T17:51:05.614Z</lastmod>
   </url>
   <url>
     <loc>https://mohamedketeb.github.io/photography/index.html</loc>
     <lastmod>2023-10-12T11:27:19.000Z</lastmod>
   </url>
   <url>
-    <loc>https://mohamedketeb.github.io/projects/index.html</loc>
-    <lastmod>2023-10-12T11:27:19.000Z</lastmod>
+    <loc>https://mohamedketeb.github.io/publications/index.html</loc>
+    <lastmod>2026-03-28T17:53:35.228Z</lastmod>
   </url>
   <url>
-    <loc>https://mohamedketeb.github.io/index.html</loc>
-    <lastmod>2026-03-28T15:57:33.212Z</lastmod>
+    <loc>https://mohamedketeb.github.io/talks/index.html</loc>
+    <lastmod>2026-03-28T17:44:31.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mohamedketeb.github.io/teaching/index.html</loc>
+    <lastmod>2026-03-28T17:44:17.779Z</lastmod>
   </url>
 </urlset>

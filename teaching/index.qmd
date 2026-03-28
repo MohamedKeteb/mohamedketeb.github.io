@@ -1,7 +1,28 @@
----
-title: Teaching
----
+```{=html}
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-# Teaching
+<style>
+h1, h2, h3 {
+  font-family: 'Quicksand', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
 
-Description de vos cours, enseignements, exercices, etc.
+body {
+  font-family: 'Quicksand', sans-serif !important;
+  font-weight: 400;
+  font-size: 1em;
+}
+</style>
+```
+
+::: {.text-center}
+# Tutorials
+:::
+
+**Fall 2025**
+
+- Stochastic Processes ([Prof. N. Chopin](https://nchopin.github.io/)) — graduate course, 30 students @ [ENSAE Paris](https://www.ensae.fr/)
+
+
+---

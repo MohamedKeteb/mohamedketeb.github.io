@@ -118,3 +118,12 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+
+/* Hover zoom effect for navbar links */
+.navbar-nav .nav-link {
+    transition: transform 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    transform: scale(1.1);
+}
