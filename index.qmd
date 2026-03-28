@@ -15,7 +15,9 @@ about:
 ::: {#about-block}
 :::
 
+::: {.text-center}
 # Mohamed M. Keteb
+:::
 
 **PhD** candidate with [Pierre E. Jacob](https://pierrejacob.org/) @ [Department of Information Systems, Data Analytics and Operations](https://ido-department.essec.edu/) -- [ESSEC Business School](https://www.essec.edu/fr/).
 
