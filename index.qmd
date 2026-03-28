@@ -23,15 +23,9 @@ about:
 
 # About Me
 
-Add your personal introduction here. Tell visitors about yourself, your background, interests, and what you do. This is your opportunity to make a great first impression!
+I am a PhD student in Statistics under the supervision of [Pierre E. Jacob](https://pierrejacob.org/) in the [Department of Information Systems, Data Analytics and Operations](https://ido-department.essec.edu/) at [ESSEC Business School](https://www.essec.edu/fr/).
 
-**Feel free to customize this section with:**
-- Your professional background
-- Your interests and passions
-- Your current projects or work
-- Any other information you'd like to share
+**Research interests**: I am mainly interseted in methodological and theoretical aspects of Monte Carlo methods in, with a current focus on unbiased estimation of log marginal likelihood (log evidence) via path sampling and Markov chain coupling.
 
-For more information about my work and projects, explore the [Projects](projects/) and [Photography](photography/) sections. You can also check out my [CV](cv/) for more details.
-
-Feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to collaborate!
+For correspondence and collaboration inquiries, please contact me at <a href="mailto:mohamed.keteb@essec.edu">mohamed.keteb@essec.edu</a>. I welcome questions and research proposals that align with my ongoing academic interests.
 
