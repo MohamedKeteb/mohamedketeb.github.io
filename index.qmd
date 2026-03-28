@@ -25,6 +25,10 @@ h1, h2, h3 { font-family: 'Quicksand', sans-serif !important; font-weight: 600; 
 
 ```{=html}
 <style>
+.about-sep {
+  border-top: 3px solid currentColor;
+  opacity: 1;
+}
 .title-hover {
   cursor: pointer;
   transition: transform 0.3s ease;
