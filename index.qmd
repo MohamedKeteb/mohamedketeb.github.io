@@ -46,7 +46,7 @@ h1, h2, h3 { font-family: 'Quicksand', sans-serif !important; font-weight: 600; 
 </style>
 
 <div class="text-center">
-  <h1 class="title-hover">Mohamed M. Keteb<br><span class="arabic-name" lang="ar" dir="rtl">محمد كاتب</span></h1>
+  <h1 class="title-hover">Mohamed M. Keteb<br><span class="arabic-name" lang="ar" dir="rtl">محمد مهدي كاتب</span></h1>
 </div>
 
 ```
