@@ -32,12 +32,10 @@ website:
     location: navbar
     type: textbox
   page-footer: 
-    left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+    left: ""
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
-    right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block">Mohamed Keteb's website</span>
+    right: ""
 
 project:
   type: website
