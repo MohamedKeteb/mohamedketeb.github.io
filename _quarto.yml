@@ -16,10 +16,12 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Publications"
         href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
+      - text: "Talks"
+        href: talks/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
