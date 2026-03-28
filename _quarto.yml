@@ -3,7 +3,7 @@
 # website settings
 website:
   site-url: https://mohamedketeb.github.io
-  title: "Gandalf"                                # Your name
+  title: "Mohamed M. Keteb"                                # Your name
   description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/my_image.jpg
   
@@ -12,7 +12,7 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    # logo: /img/logo.png (supprimé pour ne pas afficher de logo dans la bannière)
     
     # your sub-pages
     left:
