@@ -43,7 +43,7 @@ h1, h2, h3 { font-family: 'Quicksand', sans-serif !important; font-weight: 600; 
 **PhD** candidate with [Pierre E. Jacob](https://pierrejacob.org/) @ [Department of Information Systems, Data Analytics and Operations](https://ido-department.essec.edu/) -- [ESSEC Business School](https://www.essec.edu/fr/).
 
 **Education**: I graduated from [ENSAE Paris](https://www.ensae.fr/) - [Polytechnic Institute of Paris ](https://www.ip-paris.fr/) and completed a master's degree in [probability and statistics](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/mathematiques-de-laleatoire/) at the [Institut des Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/), Université Paris-Saclay. 
-During my master's thesis, I worked with [Pierre E. Jacob](https://pierrejacob.org/) on unbiased Markov Chain Monte Carlo methods with couplings, and previously I was an intern with [Francesca Romana Crucinio](https://francescacrucinio.github.io/) on particle swarm optimization.
+During my master's thesis, I worked with [Pierre E. Jacob](https://pierrejacob.org/) on unbiased Markov Chain Monte Carlo with couplings, and previously I was an intern with [Francesca Romana Crucinio](https://francescacrucinio.github.io/) on particle swarm optimization.
 
 **Research interests**: I work at the intersection of probability and statistics, with a main focus on methodological and theoretical aspects of Monte Carlo methods. Currently, I focus on unbiased estimation of log marginal likelihood (log evidence) via path sampling and Markov chain coupling.
 
