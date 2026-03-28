@@ -14,7 +14,7 @@ $gray-800: #373a3c !default;
 $gray-900: #212529 !default;
 $black:    #000000 !default;
 
-$blue:    #2780e3 !default;
+$blue:    #0d3b66 !default;
 $indigo:  #6610f2 !default;
 $purple:  #170C3A !default;
 $pink:    #A52C60 !default;
@@ -26,7 +26,7 @@ $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
 
-$primary:   $teal!default;
+$primary:   $blue !default;
 $secondary: $gray-700 !default;
 $success:   $green !default;
 $info:      $cyan !default;
@@ -120,10 +120,19 @@ $btn-code-copy-color-active: $orange !default;
 }
 
 /* Hover zoom effect for navbar links */
-.navbar-nav .nav-link {
+.navbar-nav.me-auto .nav-link {
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+    padding: 0.35rem 0.8rem !important;
     transition: transform 0.3s ease;
 }
 
-.navbar-nav .nav-link:hover {
+.navbar-nav.me-auto .nav-link:hover {
     transform: scale(1.1);
+}
+
+.navbar-nav.me-auto .nav-link.active,
+.navbar-nav.me-auto .nav-link[aria-current="page"] {
+    border-color: rgba(255, 255, 255, 0.65);
+    background-color: rgba(255, 255, 255, 0.12);
 }
