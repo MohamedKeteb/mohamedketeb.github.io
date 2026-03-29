@@ -156,7 +156,7 @@ During my master's thesis, I worked with [Pierre E. Jacob](https://pierrejacob.o
 
 **contact me at** mohamed [dot] keteb [at] essec.edu 
 
-**Office** Nautile Bulding, Campus of Cergy
+**Office** Nautile Building, Campus of Cergy
 
 ```{=html}
 <div class="profile-art-note">
