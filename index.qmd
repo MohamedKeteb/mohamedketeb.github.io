@@ -17,6 +17,7 @@ about:
 <style>
 body { font-family: 'Quicksand', sans-serif !important; font-weight: 400; }
 h1, h2, h3 { font-family: 'Quicksand', sans-serif !important; font-weight: 600; }
+.navbar-brand-logo { display: none !important; }
 </style>
 ```
 

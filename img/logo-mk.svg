@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">MK logo</title>
+  <desc id="desc">Monogramme MK dans un cercle bleu fonce avec texte blanc.</desc>
+  <defs>
+    <linearGradient id="mkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d3b66"/>
+      <stop offset="100%" stop-color="#1c5d99"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#mkGradient)"/>
+  <text
+    x="50"
+    y="57"
+    text-anchor="middle"
+    font-family="Quicksand, Arial, sans-serif"
+    font-size="34"
+    font-weight="700"
+    letter-spacing="2"
+    fill="#ffffff">MK</text>
+</svg>
